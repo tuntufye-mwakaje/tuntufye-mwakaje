@@ -1,6 +1,6 @@
 # Hi, I'm Tuntufye Mwakaje
 
-### Product-Focused Technology Professional | AI/ML | Data Science | Software Development | Research
+### Data Science | Product-Focused Technology Professional | AI/ML | Software Development | Research
 
 I am a technology professional with a background in **Computer Science, Data Science, Artificial Intelligence, Machine Learning, software development, and applied research**, with a growing focus on **Product Management and data-driven technology products**.
 
