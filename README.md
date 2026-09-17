@@ -1,185 +1,127 @@
 # Hi, I'm Tuntufye Mwakaje
 
-### Data Science | Product-Focused Technology Professional | AI/ML | Software Development | Research
+**Software Developer | Data Scientist | AI/ML Researcher | Product-Focused Technology Professional**
 
-I am a technology professional with a background in **Computer Science, Data Science, Artificial Intelligence, Machine Learning, software development, and applied research**, with a growing focus on **Product Management and data-driven technology products**.
+I build and research technology solutions across **software engineering, data science, artificial intelligence, and digital products**.
 
-I am interested in transforming complex technical capabilities into practical products that solve real user and business problems.
-
----
-
-## About Me
-
-- Product Management and technology enthusiast
-- Background in **Data Science and Computer Science**
-- Experience with **Machine Learning, Deep Learning, Data Analysis, and Software Development**
-- Interested in **AI-powered and data-driven products**
-- Experience conducting applied research in **E-Commerce Personalization** and **Software Reliability**
-- Interested in **Product Strategy, Product Analytics, AI Products, and Technology Innovation**
-- Based in **Tanzania**
-
----
-
-## Product Management Interests
-
-- Product Strategy
-- Product Discovery
-- User & Business Requirements
-- Product Roadmapping
-- Product Requirements Documents (PRDs)
-- User Stories
-- Product Analytics
-- KPI Definition
-- Data-Driven Decision Making
-- Competitive Analysis
-- Agile / Scrum
-- Cross-Functional Collaboration
-- AI Product Development
+My work combines practical software development with data-driven problem solving, machine learning, and research. I am particularly interested in applying technology to real-world problems and developing systems that connect technical implementation with measurable user and business value.
 
 ---
 
 ## Technical Skills
 
-### Programming & Development
+### Software Engineering
 - Python
 - Java
-- SQL
 - JavaScript
-- Software Development
+- HTML5 & CSS
+- Spring Boot
 - REST APIs
+- MySQL / PostgreSQL
 - Git & GitHub
+- Linux
 
 ### Data Science & AI
-- Machine Learning
-- Deep Learning
-- Predictive Modeling
-- Recommendation Systems
-- Statistical Analysis
-- Data Analysis
-- Data Visualization
-- TensorFlow
-- PyTorch
-- Scikit-learn
+- Python for Data Science
 - Pandas
 - NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Statistical Analysis
+- Data Visualization
+- Customer Segmentation
+- Recommendation Systems
 
-### Databases & Data Technologies
-- MySQL
-- PostgreSQL
-- Big Data Technologies
+### Big Data & Data Engineering
 - Hadoop
 - Hive
-
-### Development & Tools
-- Spring Boot
-- Maven
-- Linux
-- WSL
-- Jupyter Notebook
-- VS Code
-- NetBeans
-- Eclipse
+- SQL
+- Data Processing
+- Exploratory Data Analysis
 
 ---
 
 ## Featured Projects
 
-### 1. E-Commerce Personalization Using EM Clustering & Deep Recommendation
+### E-Commerce Personalization
 
-A research project focused on combining **Expectation-Maximization clustering** with **deep recommendation techniques** to support personalized e-commerce experiences.
+**Expectation-Maximization Clustering Meets Deep Recommendation: A Hybrid Model for Next Generation E-Commerce Personalization**
 
-**Focus:**
-- Customer behavioral analysis
-- Customer segmentation
-- Recommendation systems
-- Machine learning
-- Deep learning
-- Product personalization
+A data science and machine learning project combining customer behavioral segmentation using **Gaussian Mixture Models (GMM) / Expectation-Maximization (EM)** with deep-learning-based recommendation techniques.
+
+**Focus:** Customer Segmentation • Machine Learning • Deep Learning • Recommendation Systems • E-Commerce Analytics
+
+[View Project](https://github.com/tuntufye-mwakaje/ecommerce)
 
 ---
 
-### 2. Hybrid Attention-Based Deep Learning for Software Reliability
+### Courier Management System
 
-Research focused on applying **deep learning and attention mechanisms** to software reliability prediction in AI-integrated systems.
+A Java/Spring Boot-based management application for courier operations, with database integration, web interfaces, controllers, services, repositories, and document-generation functionality.
 
-**Focus:**
-- Software reliability prediction
-- Predictive modeling
-- Deep learning
-- Attention mechanisms
-- AI-integrated systems
-- Model evaluation
+**Focus:** Java • Spring Boot • MySQL • Web Application Development • Software Engineering
 
 ---
 
-### 3. Data Science & Machine Learning Projects
+### Software Reliability Prediction
 
-A collection of practical projects involving:
+Research-oriented work investigating deep-learning approaches for predicting software reliability in AI-integrated systems, including attention-based architectures and software defect datasets.
 
-- Exploratory Data Analysis
-- Predictive Modeling
-- Classification
-- Clustering
-- Dimensionality Reduction
-- Statistical Analysis
-- Data Visualization
-- Model Evaluation
-
----
-
-### 4. Product Management Portfolio
-
-A growing collection of product-oriented work covering:
-
-- Product Requirements Documents (PRDs)
-- User Stories
-- Product Roadmaps
-- Product Discovery
-- Product Metrics & KPIs
-- Competitive Analysis
-- Product Case Studies
-- AI Product Concepts
+**Focus:** Deep Learning • Software Reliability • Artificial Intelligence • Research • Predictive Modeling
 
 ---
 
 ## Research Interests
 
-- AI & Machine Learning
-- AI-Powered Products
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 - Software Reliability
-- E-Commerce Personalization
-- Recommendation Systems
-- Product Analytics
 - Data-Driven Decision Making
-- Intelligent Software Systems
+- E-Commerce Personalization
+- AI-Integrated Systems
+- Sustainable Technology
+- Predictive Modeling
 
 ---
 
 ## Education
 
-### Master of Science in Data Science
-**Chandigarh University, India**
+**Master of Science in Data Science**  
+Chandigarh University, India
 
-### Bachelor of Technology in Computer Science and Engineering
-**RIMT University, India**
+**Bachelor of Technology in Computer Science & Engineering**  
+RIMT University, India
 
----
-
-## Currently Building
-
-I am currently developing my portfolio around the intersection of:
-
-**Product Management + Artificial Intelligence + Data Science + Software Engineering**
-
-with the goal of building technology products that create measurable user and business value.
+**Diploma in Computer Engineering**  
+RIMT University, India
 
 ---
 
-## Connect With Me
+## Professional Direction
 
-- LinkedIn: www.linkedin.com/in/tuntufye-mwakaje
-- Email: tuntufyemwa@gmail.com
+I am interested in opportunities and collaborations involving:
+
+- Software Development
+- Data Science & Analytics
+- Artificial Intelligence / Machine Learning
+- Product & Technology
+- Research & Applied AI
+- Digital and Data-Driven Solutions
 
 ---
+
+## Connect
+
+- GitHub: [@tuntufye-mwakaje](https://github.com/tuntufye-mwakaje)
+- LinkedIn: [Tuntufye Mwakaje](https://www.linkedin.com/in/tuntufye-mwakaje/)
+- Email: [tuntufyemwa@gmail.com](mailto:tuntufyemwa@gmail.com)
+
+---
+
+> Building technology, learning continuously, and applying data and AI to real-world problems.
 
 ⭐ Explore my repositories below to see my technical projects, research work, and product-oriented projects.
