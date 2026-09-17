@@ -96,9 +96,6 @@ Chandigarh University, India
 **Bachelor of Technology in Computer Science & Engineering**  
 RIMT University, India
 
-**Diploma in Computer Engineering**  
-RIMT University, India
-
 ---
 
 ## Professional Direction
