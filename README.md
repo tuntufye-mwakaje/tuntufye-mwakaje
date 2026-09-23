@@ -1,138 +1,182 @@
-# Hi, I'm Tuntufye Mwakaje
+# Tuntufye Mwakaje
 
-**Data Scientist | Software Developer | AI/ML Researcher**
+### Data Scientist | Software Developer | AI/ML Researcher
 
-I build and research data-driven software and intelligent systems that connect **software engineering, data science, artificial intelligence, and real-world technology problems**.
+I build data-driven and intelligent software systems at the intersection of **Data Science, Artificial Intelligence, Software Engineering, and Research**.
 
-My work combines practical application development with statistical analysis, machine learning, deep learning, and applied research. I am particularly interested in building systems that transform data and operational signals into useful insights, predictions, recommendations, and technology solutions.
+My work focuses on transforming technical and real-world problems into reproducible computational solutions through data analysis, machine learning, deep learning, software development, experimentation, and evidence-based evaluation.
 
-## Technical Focus
+---
 
-### Data Science & Analytics
+## Featured Project
 
-* Python for data analysis and machine learning
-* Statistical analysis and exploratory data analysis
-* Feature engineering and data preprocessing
-* Customer segmentation and behavioral analytics
-* Predictive modeling
-* Data visualization
-* SQL and data processing
+### Hybrid Attention-Based Software Reliability Prediction
 
-### Artificial Intelligence & Machine Learning
+**Flagship research-engineering project**
 
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Recommendation Systems
-* Expectation-Maximization / Gaussian Mixture Models
-* Attention-based learning
-* Predictive analytics
-* AI for software and operational systems
+A reproducible multi-dataset research implementation evaluating a Hybrid Attention architecture for software defect prediction across **CM1, JM1, KC1, KC2, and PC1**.
 
-### Software Engineering
+The project goes beyond a single model experiment and implements an end-to-end experimental workflow including:
 
-* Python
-* Java
-* JavaScript
-* Spring Boot
-* REST APIs
-* MySQL / relational databases
-* JPA and layered application architecture
-* HTML5 / CSS
-* Git and GitHub
-* Linux
+* Frozen grouped train/validation/test partitions
+* Train-only feature standardization
+* 21 canonical software metrics organized into semantic feature groups
+* Hybrid Attention deep-learning architecture implemented with PyTorch
+* Controlled repeated-seed experiments
+* Logistic Regression, Random Forest, and MLP baselines
+* Four controlled architectural ablations
+* Statistical comparisons, effect sizes, confidence intervals, and diagnostic analysis
+* Automated pipeline validation and reproducibility checks
+* Manuscript-ready tables and figures
 
-### Systems, Networks & Data Platforms
+**Repository:** [software-reliability-hybrid-attention](https://github.com/tuntufye-mwakaje/software-reliability-hybrid-attention)
 
-* TCP/IP networking
-* IPv4 subnet analysis
-* DNS and TCP diagnostics
-* Network monitoring and topology analysis
-* Operational Technology (OT) systems
-* Hadoop
-* Hive
-* Data processing
+This project represents my strongest public example of combining **machine learning implementation, experimental design, software engineering, statistical analysis, and reproducible research**.
+
+---
 
 ## Selected Projects
 
+### NetScope — TCP/IP Network Diagnostics
+
+A Python-based network diagnostics application focused on practical TCP/IP analysis and network troubleshooting.
+
+Key capabilities include:
+
+* IPv4 subnet analysis
+* DNS and TCP connectivity checks
+* Network-interface monitoring
+* Network topology visualization
+* Modular Python architecture
+* Testing and diagnostic workflows
+
+**Repository:** [netscope-tcpip-network-diagnostics](https://github.com/tuntufye-mwakaje/netscope-tcpip-network-diagnostics)
+
+---
+
 ### E-Commerce Personalization
 
-**Expectation-Maximization Clustering Meets Deep Recommendation**
+A data-science and recommendation project combining **Expectation-Maximization clustering with deep recommendation modeling** to investigate customer segmentation and personalized e-commerce interactions.
 
-A hybrid machine-learning project combining customer behavioral segmentation using **Expectation-Maximization / Gaussian Mixture Models (GMM)** with deep-learning-based recommendation.
+Key areas include:
 
-**Focus:** Customer Analytics • Segmentation • Machine Learning • Deep Learning • Recommendation Systems • Personalization
+* Customer behavioral feature engineering
+* Exploratory data analysis
+* EM/GMM clustering
+* AIC/BIC model selection
+* Deep recommendation modeling
+* Evaluation and visualization
 
-### Software Reliability Prediction
+**Repository:** [ecommerce](https://github.com/tuntufye-mwakaje/ecommerce)
 
-**Hybrid Attention-Based Deep Learning Framework**
+---
 
-Research-oriented work investigating attention-based deep learning for software reliability prediction using software defect datasets from the NASA PROMISE repository.
+### Java Spring Boot Courier Management System
 
-**Focus:** AI • Deep Learning • Software Reliability • Predictive Modeling • Research
+A full-stack Java/Spring Boot application developed around courier-management workflows.
 
-### Courier Management System
+Technologies and areas include:
 
-**Java / Spring Boot Web Application**
+* Java
+* Spring Boot
+* MVC architecture
+* REST-style application components
+* MySQL
+* HTML/CSS/JavaScript
+* Application-layer organization
+* Database-backed business workflows
 
-A database-driven courier management application demonstrating layered software architecture, controllers, services, repositories, persistence, web interfaces, validation and document-generation functionality.
+**Repository:** [java-springboot-courier-management-system](https://github.com/tuntufye-mwakaje/java-springboot-courier-management-system)
 
-**Focus:** Java • Spring Boot • MySQL • JPA • Web Application Development • Software Engineering
+---
 
-### NetScope
+## Technical Focus
 
-**TCP/IP Network Diagnostics**
+### Data & AI
 
-A Python-based network diagnostics project covering IPv4 subnet analysis, DNS/TCP checks, local interface monitoring, topology visualization and modular network-engineering workflows.
+* Python
+* Data Analysis
+* Machine Learning
+* Deep Learning
+* PyTorch
+* Scikit-learn
+* Feature Engineering
+* Statistical Evaluation
+* Predictive Modeling
 
-**Focus:** Python • TCP/IP • Network Diagnostics • DNS • TCP • Network Monitoring
+### Software Engineering
 
-### Underground OT Network Monitoring Simulator
+* Python Application Development
+* Java
+* Spring Boot
+* REST-oriented application development
+* SQL / MySQL
+* Testing
+* Modular Architecture
+* Git & GitHub
 
-A Python-based simulation environment for operational technology network monitoring, including asset topology, fault detection, availability analysis and OT change-management concepts.
+### Research Engineering
 
-**Focus:** Python • OT Networks • Monitoring • Simulation • Fault Detection • Systems Analysis
+* Experimental Design
+* Reproducible Machine Learning
+* Multi-dataset Evaluation
+* Ablation Studies
+* Statistical Comparison
+* Model Evaluation
+* Research Data Pipelines
+* Scientific Visualization
+
+### Networking
+
+* TCP/IP
+* IPv4 Networking
+* DNS
+* Network Diagnostics
+* Network Monitoring
+* Network Topology Analysis
+
+---
 
 ## Research Interests
 
-* Artificial Intelligence and Machine Learning
+My current research interests include:
+
+* AI and Machine Learning
+* Software Reliability Engineering
+* Intelligent Software Systems
 * Deep Learning
-* Data-Driven Decision Making
-* Customer Behavior Analytics
-* Recommendation Systems
-* Software Reliability
-* AI-Integrated Software Systems
-* Intelligent Network and Operational Systems
-* Predictive Modeling
-* Sustainable and Data-Driven Technology
+* Data-Driven Decision Support
+* Predictive Analytics
+* Reproducible Research
+* Applied Data Science
+
+---
 
 ## Education
 
-**MSc in Data Science**
+**Master's in Data Science**
 Chandigarh University, India
 
 **B.Tech in Computer Science & Engineering**
 RIMT University, India
 
-## What I Build
-
-I am interested in engineering and research problems involving:
-
-* Data-driven applications
-* Intelligent software systems
-* Machine-learning and deep-learning solutions
-* Customer and behavioral analytics
-* Recommendation and personalization systems
-* Backend and application development
-* Network and operational-system monitoring
-* AI-assisted decision-support systems
-
-## Connect
-
-* LinkedIn: [Tuntufye Mwakaje](https://www.linkedin.com/in/tuntufye-mwakaje)
-* GitHub: [@tuntufye-mwakaje](https://github.com/tuntufye-mwakaje)
-* Email: [tuntufyemwa@gmail.com](mailto:tuntufyemwa@gmail.com)
+**Diploma in Computer Engineering**
+RIMT University, India
 
 ---
 
-> **Building software, analyzing data, researching AI, and applying technology to real-world problems.**
+## What I Build
+
+I am particularly interested in projects that combine:
+
+**Real-world problem → Data → Engineering → Intelligent Model → Evaluation → Reproducible Evidence**
+
+My portfolio therefore includes work spanning **AI/ML research, data science, networking, software development, and intelligent applications**.
+
+---
+
+## Connect
+
+* **GitHub:** [@tuntufye-mwakaje](https://github.com/tuntufye-mwakaje)
+* **LinkedIn:** [linkedin.com/in/tuntufye-mwakaje](https://linkedin.com/in/tuntufye-mwakaje)
+* **Email:** [tuntufyemwa@gmail.com](mailto:tuntufyemwa@gmail.com)
